@@ -3,6 +3,7 @@
 *.mp4
 *.webm
 *.m4a
+*.part
 
 # Virtual ENV
 .venv
